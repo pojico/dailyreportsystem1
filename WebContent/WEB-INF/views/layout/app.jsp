@@ -31,7 +31,7 @@
                 ${param.content}
             </div>
             <div id="footer">
-                by Tojima Yuka.
+                Sample
             </div>
         </div>
     </body>
